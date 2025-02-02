@@ -10,19 +10,19 @@ Users must provide:
 <li>Creatinine Phosphokinase, Platelets, Serum Creatinine, Serum Sodium</li>
 <li>Ejection Fraction, Max Heart Rate, Cholesterol, Chest Pain Type (CP)</li>
 <li>Family History (FH), Medication Usage</li>
-
-This tool aims to:
-✔ Enhance early detection of heart disease.
-✔ Provide a user-friendly interface for health assessments.
-✔ Demonstrate the integration of machine learning in healthcare applications.
+<br><br>
+This tool aims to:<br>
+✔ Enhance early detection of heart disease.<br>
+✔ Provide a user-friendly interface for health assessments.<br>
+✔ Demonstrate the integration of machine learning in healthcare applications.<br>
 
 ## Key Features
-Heart disease risk prediction using machine learning
-User-friendly and interactive web interface
-Real-time analysis based on health parameters
-Supports multiple health indicators for accurate assessment
-Efficient Flask-based backend
-Deployable locally
+Heart disease risk prediction using machine learning<br>
+User-friendly and interactive web interface<br>
+Real-time analysis based on health parameters<br>
+Supports multiple health indicators for accurate assessment<br>
+Efficient Flask-based backend<br>
+Deployable locally<br>
 
 ## Tech Stack 🛠️
 ### Frontend:
@@ -44,9 +44,9 @@ Ensure you have the following installed:
 <br><br>
 **Step 1:** Clone the Repository<br>
 `git clone https://github.com/your-username/Heart-Disease-Prediction-WebApp.git`<br>
-`cd Heart-Disease-Prediction-WebApp`<br>
-**Step 2:** Install Dependencies<br>
+`cd Heart-Disease-Prediction-WebApp`<br><br>
+**Step 2:** Install Dependencies<br><br>
 **Step 3:** Run the Application<br>
-'python main.py'<br>
+`python main.py`<br>
 The app should now be running at http://127.0.0.1:5000/<br>
 
